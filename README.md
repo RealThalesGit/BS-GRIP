@@ -8,4 +8,4 @@ Basically download global and cn bs assets directly on their official servers
 
 # Credits
 
-(tailjs)[https://github.com/tailsjs] <-- got the fingerprints from him
+[tailjs](https://github.com/tailsjs) <-- got the fingerprints from him
